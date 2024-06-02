@@ -1,10 +1,10 @@
 # Laravel Agent
-# The [Agent] package seems to be incompatible with Laravel 11. Let's move forward with a different approach to achieve the desired functionality.
-# Warning: This package is for [demonstration purposes / personal learning only]. Use at your own risk! It may have bugs or functionalities not suitable for production. 
-# In Laravel versions below 11, you'll need to use **[Agent](https://github.com/jenssegers/agent)** recommended.
-# Laravel Agent acts as a bridge between your Laravel application and the user's device, 
-# allowing you to make informed decisions about how to present your content and interact with your users 
-# based on the device they're using. This results in a more tailored and user-friendly experience for everyone.
+## The [Agent] package seems to be incompatible with Laravel 11. Let's move forward with a different approach to achieve the desired functionality.
+## Warning: This package is for [demonstration purposes / personal learning only]. Use at your own risk! It may have bugs or functionalities not suitable for production. 
+## In Laravel versions below 11, you'll need to use **[Agent](https://github.com/jenssegers/agent)** recommended.
+## Laravel Agent acts as a bridge between your Laravel application and the user's device, 
+## allowing you to make informed decisions about how to present your content and interact with your users 
+## based on the device they're using. This results in a more tailored and user-friendly experience for everyone.
 
 ## Focusing on Functionality:
 
